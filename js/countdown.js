@@ -51,7 +51,7 @@ if (typeof(BackColor)=="undefined")
 if (typeof(ForeColor)=="undefined")
   ForeColor= "black";
 if (typeof(TargetDate)=="undefined")
-TargetDate = "07/22/2016 4:00 PM";
+TargetDate = "07/12/2023 4:00 PM";
 if (typeof(DisplayFormat)=="undefined")
   DisplayFormat = "%%D%% Days, %%H%% Hours, %%M%% Minutes, %%S%% Seconds.";
 if (typeof(CountActive)=="undefined")
